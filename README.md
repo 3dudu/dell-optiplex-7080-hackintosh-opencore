@@ -18,7 +18,11 @@
 
 无线网卡：BCM943602CS with NGFF Adapter
 
+![屏蔽 11，12 针脚](https://github.com/3dudu/dell-optiplex-7080-hackintosh-opencore/blob/main/1605583200393.jpg?raw=true)
+
 > 转接卡需要屏蔽 11，12 针脚，否则连上wifi很快就会死机。
+
+
 
 硬盘1：KIOXIA-EXCERIA SSD 512G
 
