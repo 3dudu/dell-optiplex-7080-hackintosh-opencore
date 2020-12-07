@@ -1,4 +1,4 @@
-# Dell-optiplex-7080-hackintosh-opencore
+# Dell-optiplex-7080MFF-hackintosh-opencore
 
 ### 硬件
 
@@ -38,11 +38,15 @@
 
 3.睡眠
 
-### 不正常工作：
+4.修改有线网卡驱动，支持网络唤醒开机 [https://github.com/3dudu/IntelMausi]
 
-1.不能重启
+5.软重启
 
 > 已解决，ACPI补丁可以修正！
+
+### 不正常工作：
+
+1.-不能重启 -
 
 2.DP不能输出声音
 
