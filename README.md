@@ -56,3 +56,24 @@
 
 > 当接两台显示器时，耳机声音可以切换。本人另一台显示器是typre-c转HDMI接入。耳麦一体还不可以
 
+### BIOS设置
+|设置项|值|
+|----|---|
+|SATA Operation | AHCI |
+|Integrated NIC | Enabled |
+|Secure Boot Enable | unChecked |
+|Secure Boot Mode | Audit Mode |
+|SGX | Disabled |
+|SpeedStep | Enable |
+|C-States Control | Checked |
+|Turboost | Enable |
+|HyperThread Control | Enable |
+|Intel Speed Shift Technology | Enable |
+|Deep Sleep Control | Disabled |
+|USB Wake Support | unChecked |
+|Wake on LAN/WLAN | Lan only |
+|Block Sleep | unChecked |
+|Fastboot | Minimal |
+|Virtualization | Enable |
+|VT For Direct I/O | unChecked |
+|ASPM | Auto |
