@@ -44,15 +44,21 @@
 
 > 已解决，ACPI补丁可以修正！
 
+6.DP音频输出已解决
+
+> 加入扩展  FakePCIID.kext 和 FakePCIID_Intel_HDMI_Audio.kext，注入缓冲帧
+
+7.通过 [ComboJack](https://github.com/hackintosh-stuff/ComboJack)，实现耳麦识别
+
 ### 不正常工作：
 
 1. ~~不能重启~~
 
-2.DP不能输出声音
+2. ~~DP不能输出声音~~
 
 > 当接两台显示器时，DP声音可以输出。本人另一台显示器是typre-c转HDMI接入
 
-3.插入耳机，声音输出不能自动切换，需要重开机。
+3. ~~插入耳机，声音输出不能自动切换，需要重开机。~~
 
 > 当接两台显示器时，耳机声音可以切换。本人另一台显示器是typre-c转HDMI接入。耳麦一体还不可以
 
