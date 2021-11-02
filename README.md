@@ -46,7 +46,8 @@
 
 6.DP音频输出已解决
 
-> 加入扩展  FakePCIID.kext 和 FakePCIID_Intel_HDMI_Audio.kext，注入缓冲帧
+> ~~加入扩展  FakePCIID.kext 和 FakePCIID_Intel_HDMI_Audio.kext，注入缓冲帧~~
+> Monterey 下添加内核补丁解决。上述方法会引起死机
 
 7.通过 [ComboJack](https://github.com/hackintosh-stuff/ComboJack)，实现耳麦识别
 
