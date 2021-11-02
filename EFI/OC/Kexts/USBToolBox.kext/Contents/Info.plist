@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>BuildMachineOSBuild</key>
-	<string>19H524</string>
+	<string>19H1417</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
@@ -21,7 +21,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>1.0.0</string>
+	<string>1.0.1</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -49,21 +49,13 @@
 	<key>OSBundleLibraries</key>
 	<dict>
 		<key>com.apple.driver.AppleUSBHostMergeProperties</key>
-		<string>1.2</string>
+		<string>1.0</string>
 		<key>com.apple.iokit.IOPCIFamily</key>
 		<string>2.9</string>
-		<key>com.apple.kpi.bsd</key>
-		<string>19.0.0</string>
-		<key>com.apple.kpi.dsep</key>
-		<string>19.0.0</string>
 		<key>com.apple.kpi.iokit</key>
-		<string>19.0.0</string>
+		<string>15.0.0</string>
 		<key>com.apple.kpi.libkern</key>
-		<string>19.0.0</string>
-		<key>com.apple.kpi.mach</key>
-		<string>19.0.0</string>
-		<key>com.apple.kpi.unsupported</key>
-		<string>19.0.0</string>
+		<string>15.0.0</string>
 	</dict>
 	<key>OSBundleRequired</key>
 	<string>Root</string>
